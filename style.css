@@ -2,8 +2,12 @@ h1 {
     color: blue;
 }
 
+body {
+    background-color: lightskyblue;
+}
+
 .header {
     background-color: aqua;
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    border-radius: 30px;
 }
