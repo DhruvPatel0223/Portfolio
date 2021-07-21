@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+}
+
+.header {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
